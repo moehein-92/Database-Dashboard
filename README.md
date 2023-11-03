@@ -1,8 +1,5 @@
 
 
-**Title: Faculty Dashboard**
-
-Purpose: The application is mainly aimed at students who want to find out more information about professors (faculty) or students who are looking for a professor who they want to work with as a graduate student. This application can be also useful for student looking for a professor who will be teaching one of the classes who is expert in a field or looking for an advisor.  Students can just enter the name of the professor and look up key information. Students can find out a professor's contact information, information related to papers that the professor has published, top research keywords, and other similar faculty members that the professor have collaborated with on publications. The application also provides the ability to add or remove a student's favorite faculty member.
 
 **Video Demo Link:**
 
